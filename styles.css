@@ -6,6 +6,8 @@
 }
 .grid-item {
 	display: flex;
+	align-items: center; /* Center text vertically */
+    justify-content: center;
 	background-color: lightgray;
 	height: 150px;
 	width: 200px;
